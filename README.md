@@ -17,7 +17,7 @@
 * Clone terlebih dahulu atau bisa download lalu ekstrak:
 ```bash
 ~ git clone https://github.com/NaufalNajmuddin02/website_bahasa_isyarat.git
-~ cd capstone-bahasa-isyarat
+~ cd website_bahasa_isyarat
 ```
 * Install enviroment:
 ```bash

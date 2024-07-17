@@ -16,7 +16,7 @@
 ## Langkah-langkah untuk menjalankan🏃!!:
 * Clone terlebih dahulu atau bisa download lalu ekstrak:
 ```bash
-~ git clone https://github.com/rafaelrinta/capstone-bahasa-isyarat.git
+~ git clone https://github.com/NaufalNajmuddin02/website_bahasa_isyarat.git
 ~ cd capstone-bahasa-isyarat
 ```
 * Install enviroment:
